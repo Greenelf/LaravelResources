@@ -18,7 +18,7 @@
         "laravel-resources"
     ],
     "require": {
-        "illuminate/support": "~5|~6"
+        "illuminate/support": "~5|~6|~7"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0",
